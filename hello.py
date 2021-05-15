@@ -1,5 +1,0 @@
-print("Hello Wordl")
-print("Hello Wordl")
-print("Hello Wordl")
-print("Hello Wordl")
-print("Coin Toss")
